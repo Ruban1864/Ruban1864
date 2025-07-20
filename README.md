@@ -49,7 +49,7 @@ Figma
 Visual Studio Code, IntelliJ IDEA, Android Studio, Anaconda, PyCharm
 
 **Database Tools**:  
-MySQL Workbench, pgAdmin, Oracle DB Tools
+MySQL Workbench, Mongo db
 
 ---
 
@@ -66,7 +66,7 @@ MySQL Workbench, pgAdmin, Oracle DB Tools
 | Degree                            | Institution                                              | Year          |
 |-----------------------------------|----------------------------------------------------------|---------------|
 | B.Tech (Information Technology)   | Velammal College of Engineering and Technology, Madurai  |2022 - Present |
-| Higher Secondary Education (HSC) | Setupati Higher Secondary school,Madurai                  | 2021 - 2022   |
+| Higher Secondary Education (HSC) | Setupati Higher Secondary school,Madurai                  | 2020 - 2022   |
 | Secondary School Education (SSLC)| Setupati Higher Secondary school,Madurai                  | 2019 - 2020   |
 
 ---
