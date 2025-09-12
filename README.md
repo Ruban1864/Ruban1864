@@ -1,7 +1,7 @@
 💫 About Me
 
 Hi there! 👋  
-I’m A.S. Ruban, a third-year Information Technology student at Velammal College of Engineering and Technology, Madurai.
+I’m A.S. Ruban, a final-year Information Technology student at Velammal College of Engineering and Technology, Madurai.
 
 🚀 Passionate about full-stack web and mobile development  
 💻 I enjoy working on real-world projects that enhance my skills and bring value to users  
