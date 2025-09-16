@@ -71,33 +71,13 @@ Showcasing my work, skills, and achievements
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ruban1864&theme=dracula&margin-w=15&margin-h=15)  
 
 ---
-
 ## 🌐 Connect with Me  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ruban-a-s-0ba9862b8/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/RUBANAS/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/leetcode.svg" height="48" alt="LeetCode"/>
-  </a>
-  &nbsp;
-  <a href="https://ruban1864.github.io/portfolio/" target="_blank">
-    <img src="https://img.icons8.com/external-others-inmotus-design/67/000000/external-Portfolio-business-others-inmotus-design.png" height="48" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://drive.google.com/drive/u/0/folders/1BkV7xHuNbknytQzJ_gLUbJSrlbmpMDiC" target="_blank">
-    <img src="https://img.icons8.com/color/48/resume.png" height="48" alt="Resume"/>
-  </a>
-  &nbsp;
-  <a href="mailto:rubanas2005@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail"/>
-  </a>
-</p>
-
-
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/ruban-a-s-0ba9862b8/)  
+- 🏆 [LeetCode](https://leetcode.com/u/RUBANAS/)  
+- 🌍 [Portfolio](https://ruban1864.github.io/portfolio/)  
+- 📄 [Resume](https://drive.google.com/drive/u/0/folders/1BkV7xHuNbknytQzJ_gLUbJSrlbmpMDiC)  
+- 📫 Email: **rubanas2005@gmail.com**  
 ---
 
 ## 🎓 Education  
