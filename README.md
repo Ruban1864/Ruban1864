@@ -74,11 +74,28 @@ Showcasing my work, skills, and achievements
 
 ## 🌐 Connect with Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ruban-a-s-0ba9862b8/)  
-- 🏆 [LeetCode](https://leetcode.com/u/RUBANAS/)  
-- 🌍 [Portfolio](https://ruban1864.github.io/portfolio/)  
-- 📄 [Resume](https://drive.google.com/drive/u/0/folders/1BkV7xHuNbknytQzJ_gLUbJSrlbmpMDiC)  
-- 📫 Email: **rubanas2005@gmail.com**  
+<p align="left">
+  <a href="https://www.linkedin.com/in/ruban-a-s-0ba9862b8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://leetcode.com/u/RUBANAS/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  
+  <a href="https://ruban1864.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://drive.google.com/drive/u/0/folders/1BkV7xHuNbknytQzJ_gLUbJSrlbmpMDiC" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-%23FF5722.svg?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+  
+  <a href="mailto:rubanas2005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
