@@ -1,74 +1,97 @@
-💫 About Me
+<h1 align="center">Hi 👋, I'm A.S. Ruban</h1>
+<h3 align="center">🚀 Passionate Full Stack Developer | Tech Enthusiast | Lifelong Learner</h3>
 
-Hi there! 👋  
-I’m A.S. Ruban, a final-year Information Technology student at Velammal College of Engineering and Technology, Madurai.
-
-🚀 Passionate about full-stack web and mobile development  
-💻 I enjoy working on real-world projects that enhance my skills and bring value to users  
-🌱 Always eager to learn new technologies, face new challenges, and grow as a tech enthusiast  
-🤝 I aim to become a successful engineer by working in a great company where I can contribute to meaningful projects
-
----
-🌟 Project Highlights
-
- 📞 Contact Manager – Scalable Contact Management API  
-  - 🔧 Developed using Node.js and Express.js
-- 📡 Offers secure and efficient **RESTful APIs** for contact CRUD operations  
-- 🛡️ Integrated **JWT authentication**, **password hashing**, and **response caching**  
-- ☁️ Uses **MongoDB Atlas** for cloud-based data storage  
-
- 🩺 MediTack – Smart Health Companion  
-- 📱 Android application built with **Android Studio** using **Java**  
-- ☁️ Integrated with **Firebase** for authentication and real-time data storage  
-- 🧠 Includes features like OCR-based medical report management and health alerts  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=3DDC84&center=true&vCenter=true&lines=Full+Stack+Web+%26+Mobile+Developer;Always+Learning+New+Technologies;Open+to+Collaboration+%F0%9F%91%8D">
+</p>
 
 ---
 
-## 💻 Tech Stack
-
-**Languages**:  
-HTML5, CSS3, JavaScript, Java, Python, PHP, C
-
-**Frontend**:  
-React, Bootstrap
-
-**Backend**:  
-Node.js, Express.js, Firebase
-
-**Database**:  
-MongoDB, MySQL,
-
-**Design & Prototyping**:  
-Figma
+## 💫 About Me
+- 🎓 Final-year **IT Student** at Velammal College of Engineering and Technology, Madurai  
+- 💻 Passionate about **Full-Stack Web & Mobile Development**  
+- 🌱 Continuously learning **Cloud, AI & System Design**  
+- 🤝 Aspiring to join a great company & contribute to impactful projects  
+- 🎶 Fun fact: I’m addicted to Music 🎵  
 
 ---
 
-## ✨ IDEs and Tools
+## 🌟 Project Highlights  
 
-**IDEs**:  
-Visual Studio Code, IntelliJ IDEA, Android Studio, Anaconda, PyCharm
+### 📞 [Contact Manager – Scalable Contact Management App](https://contactsphere.netlify.app/)  
+- 🔗 [Frontend Repo](https://github.com/Ruban1864/contact-manager-frontend) | [Backend Repo](https://github.com/Ruban1864/contact-manager-backend) | [Live Demo](https://contactsphere.netlify.app/)  
+- 🔧 Built with **Node.js, Express.js, React**  
+- 🔐 Includes **JWT Authentication & Password Hashing**  
+- ☁️ Cloud storage using **MongoDB Atlas**  
 
-**Database Tools**:  
-MySQL Workbench, Mongo db
+### 🩺 [MediTrack – Smart Health Companion](https://github.com/Ruban1864/Medivision_Ai)  
+- 📱 Android App (Java, Android Studio)  
+- 🔥 Firebase for **Authentication & Realtime Database**  
+- 🧠 OCR-based **Medical Report Management & Health Alerts**  
 
----
-
-## 🌐 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ruban-a-s-0ba9862b8/)
-- 📷 [Leetcode](https://leetcode.com/u/RUBANAS/)
-- 📫 Email: rubanas2005@gmail.com 
-
----
-
-## 🎓 Education
-
-| Degree                            | Institution                                              | Year          |
-|-----------------------------------|----------------------------------------------------------|---------------|
-| B.Tech (Information Technology)   | Velammal College of Engineering and Technology, Madurai  |2022 - Present |
-| Higher Secondary Education (HSC) | Setupati Higher Secondary school,Madurai                  | 2020 - 2022   |
-| Secondary School Education (SSLC)| Setupati Higher Secondary school,Madurai                  | 2019 - 2020   |
+### 🌐 [My Portfolio](https://ruban1864.github.io/portfolio/)  
+Showcasing my work, skills, and achievements  
 
 ---
 
-⭐ *Thanks for visiting my profile! Let's connect and collaborate on exciting projects.*
+## 💻 Tech Stack  
+
+**Languages & Frameworks:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Backend & Databases:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Design & Tools:**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+---
+
+## 📊 GitHub Stats  
+
+![Ruban's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruban1864&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruban1864&layout=compact&theme=tokyonight)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ruban1864&theme=tokyonight)  
+
+## 🏆 GitHub Trophies  
+![trophy](https://github-profile-trophy.vercel.app/?username=Ruban1864&theme=dracula&margin-w=15&margin-h=15)  
+
+---
+
+## 🌐 Connect with Me  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ruban-a-s-0ba9862b8/)  
+- 🏆 [LeetCode](https://leetcode.com/u/RUBANAS/)  
+- 🌍 [Portfolio](https://ruban1864.github.io/portfolio/)  
+- 📄 [Resume](https://drive.google.com/drive/u/0/folders/1BkV7xHuNbknytQzJ_gLUbJSrlbmpMDiC)  
+- 📫 Email: **rubanas2005@gmail.com**  
+
+---
+
+## 🎓 Education  
+
+| Degree 🎓                       | Institution 🏫                                           | Year 📅       |
+|---------------------------------|----------------------------------------------------------|---------------|
+| B.Tech (Information Technology) | Velammal College of Engineering and Technology, Madurai  | 2022 - Present |
+| HSC                             | Setupati Higher Secondary School, Madurai                | 2020 - 2022   |
+| SSLC                            | Setupati Higher Secondary School, Madurai                | 2019 - 2020   |
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=Ruban1864&label=Profile%20views&color=0e75b6&style=flat)  
+
+⭐ *Thanks for visiting my profile! Let's connect and collaborate on exciting projects.*  
