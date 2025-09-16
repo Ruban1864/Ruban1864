@@ -74,27 +74,28 @@ Showcasing my work, skills, and achievements
 
 ## 🌐 Connect with Me  
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/ruban-a-s-0ba9862b8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/>
   </a>
-  
+  &nbsp;
   <a href="https://leetcode.com/u/RUBANAS/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/leetcode.svg" height="48" alt="LeetCode"/>
   </a>
-  
+  &nbsp;
   <a href="https://ruban1864.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.icons8.com/external-others-inmotus-design/67/000000/external-Portfolio-business-others-inmotus-design.png" height="48" alt="Portfolio"/>
   </a>
-  
+  &nbsp;
   <a href="https://drive.google.com/drive/u/0/folders/1BkV7xHuNbknytQzJ_gLUbJSrlbmpMDiC" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-%23FF5722.svg?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/resume.png" height="48" alt="Resume"/>
   </a>
-  
+  &nbsp;
   <a href="mailto:rubanas2005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail"/>
   </a>
 </p>
+
 
 
 ---
