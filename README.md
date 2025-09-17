@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Full Stack Developer | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=3DDC84&center=true&vCenter=true&lines=Full+Stack+Web+%26+Mobile+Developer;Always+Learning+New+Technologies;Open+to+Collaboration+%F0%9F%91%8D">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=3DDC84&center=true&vCenter=true&lines=Hi;Full+Stack+Web+%26+Mobile+Developer;Always+Learning+New+Technologies;Open+to+Collaboration+%F0%9F%91%8D">
 </p>
 
 ---
