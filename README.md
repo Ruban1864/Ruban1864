@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Full Stack Developer | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=5000&color=3DDC84&center=true&vCenter=true&lines=Hi+Professionals;Full+Stack+Web+%26+Mobile+Developer;Always+Learning+New+Technologies;Open+to+Collaboration+%F0%9F%91%8D">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=5000&color=3DDC84&center=true&vCenter=true&lines=Hi+Professionals;🚀+Full+Stack+Web+%26+Mobile+Developer;🚀+Always+Learning+New+Technologies;Open+to+Collaboration+%F0%9F%91%8D">
 </p>
 
 ---
@@ -70,9 +70,9 @@ Showcasing my work, skills, and achievements
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruban1864&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Langs" height="160"/>
 </p>
-
-
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruban1864&theme=tokyo-night" alt="Ruban's GitHub Activity Graph" />
+</p>
 
 ## 🏆 GitHub Trophies  
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ruban1864&theme=dracula&margin-w=15&margin-h=15)  
@@ -80,10 +80,10 @@ Showcasing my work, skills, and achievements
 ---
 ## 🌐 Connect with Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ruban-a-s-0ba9862b8/)  
-- 🏆 [LeetCode](https://leetcode.com/u/RUBANAS/)  
-- 🌍 [Portfolio](https://ruban1864.github.io/portfolio/)  
-- 📄 [Resume](https://drive.google.com/drive/u/0/folders/1BkV7xHuNbknytQzJ_gLUbJSrlbmpMDiC)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruban-a-s-0ba9862b8/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/RUBANAS/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://ruban1864.github.io/portfolio/)  
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://drive.google.com/drive/u/0/folders/1BkV7xHuNbknytQzJ_gLUbJSrlbmpMDiC)  
 - 📫 Email: **rubanas2005@gmail.com**  
 ---
 
