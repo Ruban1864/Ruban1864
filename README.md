@@ -10,9 +10,9 @@
 ## 💫 About Me
 - 🎓 Final-year **IT Student** at Velammal College of Engineering and Technology, Madurai  
 - 💻 Passionate about **Full-Stack Web & Mobile Development**  
-- 🌱 Continuously learning **Cloud, AI & System Design**  
+- 🌱 Continuously learning **Data Structure and Algorithm & AI**  
 - 🤝 Aspiring to join a great company & contribute to impactful projects  
-- 🎶 Fun fact: I’m addicted to Music 🎵  
+
 
 ---
 
