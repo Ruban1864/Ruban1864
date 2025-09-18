@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Full Stack Developer | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=3DDC84&center=true&vCenter=true&lines=Hi+Professionals;Full+Stack+Web+%26+Mobile+Developer;Always+Learning+New+Technologies;Open+to+Collaboration+%F0%9F%91%8D">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=5000&color=3DDC84&center=true&vCenter=true&lines=Hi+Professionals;Full+Stack+Web+%26+Mobile+Developer;Always+Learning+New+Technologies;Open+to+Collaboration+%F0%9F%91%8D">
 </p>
 
 ---
@@ -63,9 +63,16 @@ Showcasing my work, skills, and achievements
 
 ## 📊 GitHub Stats  
 
-![Ruban's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruban1864&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruban1864&layout=compact&theme=tokyonight)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ruban1864&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ruban1864&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="Ruban's GitHub stats" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruban1864&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Langs" height="160"/>
+</p>
+
+
+
 
 ## 🏆 GitHub Trophies  
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ruban1864&theme=dracula&margin-w=15&margin-h=15)  
